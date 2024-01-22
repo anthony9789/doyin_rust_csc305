@@ -1,0 +1,11 @@
+C:\Users\antho\OneDrive\Documents\doyin\doyin_rust_csc305\barest\target\x86_64-bootimage-barest\debug\deps\libbitflags-b0ecba3ea481c0e5.rmeta: C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.2\src\lib.rs C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.2\src\iter.rs C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.2\src\parser.rs C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.2\src\traits.rs C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.2\src\public.rs C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.2\src\internal.rs C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.2\src\external.rs
+
+C:\Users\antho\OneDrive\Documents\doyin\doyin_rust_csc305\barest\target\x86_64-bootimage-barest\debug\deps\bitflags-b0ecba3ea481c0e5.d: C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.2\src\lib.rs C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.2\src\iter.rs C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.2\src\parser.rs C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.2\src\traits.rs C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.2\src\public.rs C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.2\src\internal.rs C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.2\src\external.rs
+
+C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.2\src\lib.rs:
+C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.2\src\iter.rs:
+C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.2\src\parser.rs:
+C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.2\src\traits.rs:
+C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.2\src\public.rs:
+C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.2\src\internal.rs:
+C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.2\src\external.rs:
