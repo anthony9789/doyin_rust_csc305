@@ -1,9 +1,0 @@
-C:\Users\antho\OneDrive\Documents\RUST CSC 305\os_with_bootloader\target\debug\deps\futures_macro-4cadc2e1c53a12ef.dll: C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\lib.rs C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\executor.rs C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\join.rs C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\select.rs C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\stream_select.rs
-
-C:\Users\antho\OneDrive\Documents\RUST CSC 305\os_with_bootloader\target\debug\deps\futures_macro-4cadc2e1c53a12ef.d: C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\lib.rs C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\executor.rs C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\join.rs C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\select.rs C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\stream_select.rs
-
-C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\lib.rs:
-C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\executor.rs:
-C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\join.rs:
-C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\select.rs:
-C:\Users\antho\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\stream_select.rs:
