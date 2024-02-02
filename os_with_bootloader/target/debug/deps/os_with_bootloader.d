@@ -4,5 +4,5 @@ C:\Users\antho\OneDrive\Documents\RUST CSC 305\os_with_bootloader\target\debug\d
 
 src\main.rs:
 
-# env-dep:BIOS_PATH=C:\\Users\\antho\\OneDrive\\Documents\\RUST CSC 305\\os_with_bootloader\\target\\debug\\build\\os_with_bootloader-213d6a787d28a25e\\out\\bios.img
-# env-dep:UEFI_PATH=C:\\Users\\antho\\OneDrive\\Documents\\RUST CSC 305\\os_with_bootloader\\target\\debug\\build\\os_with_bootloader-213d6a787d28a25e\\out\\uefi.img
+# env-dep:BIOS_PATH=C:\\Users\\antho\\OneDrive\\Documents\\RUST CSC 305\\os_with_bootloader\\target\\debug\\build\\os_with_bootloader-2d5880adc57ea69b\\out\\bios.img
+# env-dep:UEFI_PATH=C:\\Users\\antho\\OneDrive\\Documents\\RUST CSC 305\\os_with_bootloader\\target\\debug\\build\\os_with_bootloader-2d5880adc57ea69b\\out\\uefi.img
